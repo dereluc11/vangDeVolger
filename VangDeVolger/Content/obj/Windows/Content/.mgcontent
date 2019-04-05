@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/xampp/htdocs/vdv/VangDeVolger/Content/box.png</File>
+    <File>C:/xampp/htdocs/vdv/VangDeVolger/Content/player.png</File>
+    <File>C:/xampp/htdocs/vdv/VangDeVolger/Content/tile.jpg</File>
+    <File>C:/xampp/htdocs/vdv/VangDeVolger/Content/wall.png</File>
+    <File>C:/xampp/htdocs/vdv/VangDeVolger/Content/empty.png</File>
+    <File>C:/xampp/htdocs/vdv/VangDeVolger/Content/enemy.png</File>
+    <File>C:/xampp/htdocs/vdv/VangDeVolger/Content/Controls/button.png</File>
+    <File>C:/xampp/htdocs/vdv/VangDeVolger/Content/Fonts/Font.spritefont</File>
+    <File>C:/xampp/htdocs/vdv/VangDeVolger/Content/loseBanner.png</File>
+    <File>C:/xampp/htdocs/vdv/VangDeVolger/Content/winBanner.png</File>
+    <File>C:/xampp/htdocs/vdv/VangDeVolger/Content/pauseBanner.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
